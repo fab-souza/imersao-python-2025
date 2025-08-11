@@ -22,7 +22,31 @@
 
 💡 Por fim, construímos um dashboard interativo do zero – uma habilidade essencial para compartilhar o que fazemos e que eu não me recordo de já ter trabalhado antes... 😅
 
+# Conclusão 🏁
+
 O resultado final pode ser conferido [aqui](https://imersao-dadoscompython2025-by-fab-de-souza.streamlit.app/) na minha página do Streamlit.
 
 <img width="720" height="460" alt="Minha página" src="https://github.com/user-attachments/assets/320f6a92-30d3-4da9-93da-5efc5852a352" />
+
+---
+
+Muito obrigada por chegar até aqui e até a próxima 🤗
+
+## Ferramentas utilizadas 🧰
+
+<p>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/798/5084798-middle.png" alt="streamlit" width="75" height="40"/> </a>
+</p>
+
+
+
+
+
+
+
 
